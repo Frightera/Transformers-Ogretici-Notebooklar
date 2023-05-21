@@ -1,7 +1,7 @@
 # Transformers Öğretici Notebooklar Serisi
 
 ## Açıklama
-Huggingface, Pytorch ve JAX odaklı notebooklardan oluşup, basitten ileri seviyeye (deployment senaryoları dahil) doğru gidecektir.
+Huggingface, Pytorch ve JAX odaklı notebooklardan oluşup, basitten ileri seviyeye (deployment senaryoları dahil -AWS & Azure-) doğru gidecektir.
 
 ## Notebooklar
 1) TBA
